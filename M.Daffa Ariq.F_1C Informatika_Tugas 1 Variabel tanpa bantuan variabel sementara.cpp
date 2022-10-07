@@ -5,12 +5,12 @@ int main (){
 // Tugas 3
 //  Menukarkan 2 Variabel tanpa Variabel Sementara
     int t, s;
-    t = 24; //Variabel awal
-    s = 48; //Variabel awal
+    t = 9; //Variabel awal
+    s = 6; //Variabel awal
 
-    t = t+s; //8
-    s = t-s; //3
-    t = t-s; //5
+    t = t+s; //15
+    s = t-s; //9
+    t = t-s; //6
 
     cout << "\nMenukarkan 2 Variabel tanpa Variabel Sementara\n";
     cout << "T : " << t << endl << "S : " << s;
